@@ -82,7 +82,7 @@ export default function Hero() {
         z-10
         "
       >
-        {"// Hello, World! I am Limbika"}
+        {"// Hello, I am"}
       </p>
 
       <h1
