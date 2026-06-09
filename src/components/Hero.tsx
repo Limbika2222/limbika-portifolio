@@ -110,7 +110,7 @@ export default function Hero() {
         z-10
         "
       >
-        AI Researcher
+Software Engineer • Data Scientist • Lecturer
       </h2>
 
       {/* Description */}
