@@ -161,7 +161,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="#"
+          href="/cv/Limbika_Zangazanga_CV.pdf"
           className="
           border
           border-zinc-700
